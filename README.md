@@ -59,7 +59,9 @@ Se preferir, pode usar o `launch_chrome.bat`.
 
 > A porta (9222) é configurável no código.
 
-### 2. Execute o script Python
+### 2. Acesse o SIASGnet e carregue a listagem de itens da licitação (mantenha apenas uma aba aberta com essa página)
+
+### 3. Execute o script Python
 
 ```bash
 python main.py
